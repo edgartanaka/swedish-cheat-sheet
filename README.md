@@ -26,4 +26,8 @@ My cheat sheet to learning swedish
 | åtta | arton   | åttio   |        |
 | nio  | nitton  | nittio  |        |
 
+# Verbs
+
+# Plural
+
 # En/Ett
